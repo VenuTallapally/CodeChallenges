@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallenge", "CodeChallenge\CodeChallenge.csproj", "{4576C32D-DE85-4860-8039-5F54D5A87608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallengeTests", "CodeChallengeTests\CodeChallengeTests.csproj", "{BCF7A196-375D-486B-8960-B05B801B13F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4576C32D-DE85-4860-8039-5F54D5A87608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4576C32D-DE85-4860-8039-5F54D5A87608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4576C32D-DE85-4860-8039-5F54D5A87608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4576C32D-DE85-4860-8039-5F54D5A87608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF7A196-375D-486B-8960-B05B801B13F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF7A196-375D-486B-8960-B05B801B13F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF7A196-375D-486B-8960-B05B801B13F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF7A196-375D-486B-8960-B05B801B13F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

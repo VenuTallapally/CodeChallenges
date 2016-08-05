@@ -1,0 +1,5 @@
+E:\C#Projs\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.dll
+E:\C#Projs\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.pdb
+E:\C#Projs\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csprojResolveAssemblyReference.cache
+E:\C#Projs\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.dll
+E:\C#Projs\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.pdb
