@@ -1,0 +1,7 @@
+E:\C#Projs\12Aug2106\12Aug2016Tests\bin\Debug\12Aug2016Tests.dll
+E:\C#Projs\12Aug2106\12Aug2016Tests\bin\Debug\12Aug2016Tests.pdb
+E:\C#Projs\12Aug2106\12Aug2016Tests\bin\Debug\12Aug2106.exe
+E:\C#Projs\12Aug2106\12Aug2016Tests\bin\Debug\12Aug2106.pdb
+E:\C#Projs\12Aug2106\12Aug2016Tests\obj\Debug\12Aug2016Tests.csprojResolveAssemblyReference.cache
+E:\C#Projs\12Aug2106\12Aug2016Tests\obj\Debug\12Aug2016Tests.dll
+E:\C#Projs\12Aug2106\12Aug2016Tests\obj\Debug\12Aug2016Tests.pdb

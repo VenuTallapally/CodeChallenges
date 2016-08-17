@@ -1,0 +1,6 @@
+E:\C#Projs\12Aug2106\12Aug2106\bin\Debug\12Aug2106.exe.config
+E:\C#Projs\12Aug2106\12Aug2106\bin\Debug\12Aug2106.exe
+E:\C#Projs\12Aug2106\12Aug2106\bin\Debug\12Aug2106.pdb
+E:\C#Projs\12Aug2106\12Aug2106\obj\Debug\12Aug2106.csprojResolveAssemblyReference.cache
+E:\C#Projs\12Aug2106\12Aug2106\obj\Debug\12Aug2106.exe
+E:\C#Projs\12Aug2106\12Aug2106\obj\Debug\12Aug2106.pdb
