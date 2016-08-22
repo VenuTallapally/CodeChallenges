@@ -82,9 +82,8 @@ namespace _12Aug2106
             var encryptedMessage = string.Empty;
             try
             {
-                var arrMsg = decryptedMessage.Split(new[] {" numsp "}, StringSplitOptions.None);
-                var message = arrMsg[0].Trim();
-               
+                var numspIndex = decryptedMessage.LastIndexOf("numsp");
+                var message = decryptedMessage.Substring(0, numspIndex).Trim();
                 var messageIntoRows = message.Split(' ').ToList();
                 var rows = (int) Math.Floor(Math.Sqrt(message.Length));
 
@@ -100,9 +99,10 @@ namespace _12Aug2106
                     }
                 }
                 encryptedMessage = sb.ToString();
-                if (arrMsg.Length > 1 && !string.IsNullOrWhiteSpace(arrMsg[1])) //should have index numbers for given string
+                var arrIndex = decryptedMessage.Substring(numspIndex + 6);// Getting only indexes
+                if (arrIndex.Length > 0) //should have index numbers for given string
                 {
-                    var arrIndexes = Array.ConvertAll(arrMsg[1].Trim().Split(' '), int.Parse);
+                    var arrIndexes = Array.ConvertAll(arrIndex.Trim().Split(' '), int.Parse);
                     for (var i = 0; i < arrIndexes.Length; i++)
                     {
                         encryptedMessage = encryptedMessage.Insert(arrIndexes[i] - 1 + i, " ");
