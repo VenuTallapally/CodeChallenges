@@ -1,0 +1,6 @@
+E:\C#Projs\21October-sample\October21st2016\October21st2016\bin\Debug\October21st2016.exe.config
+E:\C#Projs\21October-sample\October21st2016\October21st2016\bin\Debug\October21st2016.exe
+E:\C#Projs\21October-sample\October21st2016\October21st2016\bin\Debug\October21st2016.pdb
+E:\C#Projs\21October-sample\October21st2016\October21st2016\obj\Debug\October21st2016.csprojResolveAssemblyReference.cache
+E:\C#Projs\21October-sample\October21st2016\October21st2016\obj\Debug\October21st2016.exe
+E:\C#Projs\21October-sample\October21st2016\October21st2016\obj\Debug\October21st2016.pdb
