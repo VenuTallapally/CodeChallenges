@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using November18th2016.interfaces;
 
-namespace November18th2016.Operations
+namespace November18th2016.Transactions
 {
     public class Withdraw : ITransaction
     {
