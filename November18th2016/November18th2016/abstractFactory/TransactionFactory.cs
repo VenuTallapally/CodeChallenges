@@ -3,9 +3,8 @@ using November18th2016.interfaces;
 
 namespace November18th2016.abstractFactory
 {
-    public abstract class OperationsFactory
+    public abstract class TransactionFactory
     {
-        public abstract ITransaction GetOperationsType(OperationsType operationsType);
-
+        public abstract ITransaction Create(TransactionType transactionType);
     }
 }
