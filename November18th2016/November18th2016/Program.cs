@@ -30,12 +30,12 @@ namespace November18th2016
                 var opeartion = Console.ReadLine();
                 if (opeartion != null)
                     if (opeartion.ToUpper() == "EXIT") return;
-                var operationsType = (OperationsType)Convert.ToInt32(opeartion);
+                var transactionType = (TransactionType)Convert.ToInt32(opeartion);
 
                 Console.WriteLine("Enter a Account Type: (Select 1 - Active, 2 - Closed, 3 - InOperative)");
                 var accountType = (AccountType)Convert.ToInt32(Console.ReadLine());
 
-                Operation.ManageTransactions(accountType, operationsType);
+                TransactionHelper.Process(accountType, transactionType);
             }
         }
     }
