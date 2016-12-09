@@ -1,6 +1,6 @@
 ﻿namespace November18th2016.Operations
 {
-    public enum OperationsType
+    public enum TransactionType
     {
         Deposit = 1,
         Withdraw = 2,
